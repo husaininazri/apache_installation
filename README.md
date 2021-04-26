@@ -6,7 +6,7 @@ How To Install the Apache Web Server on Ubuntu 18.04
 
 ### Prerequisites
 
-* Curl 
+* Link 
   ```sh
        https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-18-04
   ```
@@ -20,6 +20,7 @@ How To Install the Apache Web Server on Ubuntu 18.04
 * List the ufw application profiles by typing:
   ```sh
   sudo ufw app list
+    
     Output
     Available applications:
       Apache
